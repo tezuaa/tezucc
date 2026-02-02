@@ -34,3 +34,8 @@ hasCJKLanguage = true
     name = "文章"
     url = "/posts/"
     weight = 2
+
+[params.umami]
+    enabled = true
+  serverURL = "https://umami.migi.cc/script.js"
+  websiteID = "95fbee32-7731-463d-ad99-a1a0e7756cf7"
