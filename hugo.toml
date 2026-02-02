@@ -1,0 +1,36 @@
+languageCode = "zh-tw"
+defaultContentLanguage = "zh-tw"
+# 第一部分：頂層設定（絕不能放在 [params] 下面）
+baseURL = "http://localhost:1313/"
+title = "鐵柱 tezu"
+theme = "anatole"
+hasCJKLanguage = true
+
+# 第二部分：主題專屬設定
+[params]
+    localizedDates = true
+    languageCode = "zh-tw"
+    author = "鐵柱 tezu"
+    description = "鐵柱 tezu"
+    profilePicture = "images/avatar.png"
+    indexDateFormat = "2006-01-02 Monday"
+    dateFormat = "2006-01-02 Monday"
+    # 強制鎖定亮色模式
+    colorScheme = "light"
+    disableThemeSwitcher = true
+
+# 第三部分：社交連結陣列（必須單獨成塊）
+[[params.social]]
+    icon = "github"
+    link = "https://github.com/你的帳號"
+
+# 第四部分：選單陣列
+[[menu.main]]
+    name = "首頁"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 2
