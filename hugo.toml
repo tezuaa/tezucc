@@ -19,6 +19,9 @@ hasCJKLanguage = true
     colorScheme = "light"
     disableThemeSwitcher = true
 
+    [params.assets]
+    favicon = "images/avatar.png"
+
 # 第三部分：社交連結陣列（必須單獨成塊）
 [[params.social]]
     icon = "github"
