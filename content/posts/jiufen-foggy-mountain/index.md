@@ -16,8 +16,8 @@ image = ''
 這座城市是垂直的。
 房屋沿著陡峭的山坡層層堆疊，黑色的油毛氈屋頂像是一層層鱗片，覆蓋在這條巨龍的背上。站在基山街的觀景台往下看，遠處的基隆港像是一汪被打翻的墨水，深邃而平靜，只有點點漁火在海面上搖曳。
 
-![Image: View of Jiufen hillside houses and ocean at night](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Jiufen_Old_Street_at_night.jpg/1280px-Jiufen_Old_Street_at_night.jpg)
-*（圖：夜色中的九份，燈火如晝）*
+![Image: View of Jiufen hillside houses and ocean at night](https://image.pollinations.ai/prompt/Jiufen%20old%20street%20night%20red%20lanterns%20hillside%20foggy%20mysterious%20cinematic%20lighting?width=1280&height=720&nologo=true)
+*（圖：夜色中的九份，燈火如晝 - AI Generated）*
 
 ## 豎崎路的紅燈籠
 
@@ -28,8 +28,8 @@ image = ''
 
 有人說這裡像《神隱少女》的場景，但我更願意把它看作是《悲情城市》的延續。那種繁華落盡後的蒼涼，是任何動畫都畫不出來的質感。
 
-![Image: Red lanterns hanging along the narrow stone stairs](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jiufen_Old_Street.jpg/1280px-Jiufen_Old_Street.jpg)
-*（圖：豎崎路的石階與紅燈籠）*
+![Image: Red lanterns hanging along the narrow stone stairs](https://image.pollinations.ai/prompt/Jiufen%20narrow%20stone%20stairs%20red%20lanterns%20raining%20moody%20atmosphere%20ghibli%20style?width=1280&height=720&nologo=true)
+*（圖：豎崎路的石階與紅燈籠 - AI Generated）*
 
 ## 茶樓裡的時光
 
