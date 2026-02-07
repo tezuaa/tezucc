@@ -1,5 +1,5 @@
 +++
-date = '2026-02-07T16:15:00+08:00'
+date = '2026-02-07T16:13:00+08:00'
 draft = false
 title = '讓財富主動靠近：從《鹽鐵論》看現代人的求財之道'
 slug = 'wealth-attraction-principles'
