@@ -14,6 +14,8 @@ image = ''
 
 於是，**x2md** 誕生了。
 
+下載連結 [https://github.com/tezuaa/x2md](https://github.com/tezuaa/x2md)
+
 這是一個極簡主義的 Chrome Extension，它的目標只有一個：
 **讓保存推文變得像點個讚一樣簡單。**
 
