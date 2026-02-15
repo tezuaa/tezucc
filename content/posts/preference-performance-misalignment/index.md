@@ -9,6 +9,10 @@ description = '人們偏愛溫柔的建議，但真正的收益卻來自於大�
 image = ''
 +++
 
+> **Abstract (原文摘要)**
+>
+> As AI usage becomes more prevalent in social contexts, understanding agent-user interaction is critical to designing systems that improve both individual and group outcomes. We present an online behavioral experiment (N = 243) in which participants play three multi-turn bargaining games in groups of three. Each game, presented in randomized order, grants *access to* a single LLM assistance modality: proactive recommendations from an *Advisor*, reactive feedback from a *Coach*, or autonomous execution by a *Delegate*; all modalities are powered by an underlying LLM that achieves superhuman performance in an all-agent environment. On each turn, participants privately decide whether to act manually or use the AI modality available in that game. Despite preferring the *Advisor* modality, participants achieve the highest mean individual gains with the *Delegate*, demonstrating a preference-performance misalignment. Moreover, delegation generates positive externalities; even non-adopting users in *access-to-delegate* treatment groups benefit by receiving higher-quality offers. Mechanism analysis reveals that the *Delegate* agent acts as a market maker, injecting rational, Pareto-improving proposals that restructure the trading environment. Our research reveals a gap between agent capabilities and realized group welfare. While autonomous agents can exhibit super-human strategic performance, their impact on realized welfare gains can be constrained by interfaces, user perceptions, and adoption barriers. Assistance modalities should be designed as mechanisms with endogenous participation; adoption-compatible interaction rules are a prerequisite to improving human welfare with automated assistance.
+
 這篇論文揭示了一個非常有趣，甚至有點反直覺的現象：**人類對 AI 的偏好，與 AI 實際能帶來的效益，是脫鉤的。**
 
 在談判賽局中，研究者提供了三種 AI 模式：
