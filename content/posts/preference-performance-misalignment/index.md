@@ -35,3 +35,6 @@ image = ''
 
 真正的智慧，或許不在於變得更強，而在於知道何時該讓位給更強的邏輯。
 我們需要的不是一個聽話的隨從，而是一個能帶領我們穿越非理性迷霧的領航員。
+
+---
+**Source:** [Assistance with Autonomous Agents (arXiv:2602.12089v1)](https://arxiv.org/abs/2602.12089v1)
